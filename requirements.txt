@@ -1,0 +1,9 @@
+langgraph
+langchain
+groq
+langchain-groq
+pdfplumber
+rapidfuzz
+chromadb
+networkx
+pydantic
